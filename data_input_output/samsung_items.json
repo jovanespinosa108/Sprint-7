@@ -1,0 +1,188 @@
+[
+    {
+        "id": 131,
+        "title": "Samsung Galaxy S7",
+        "description": "The Samsung Galaxy S7 is a flagship smartphone known for its sleek design and advanced features. It features a high-resolution display, powerful camera, and robust performance.",
+        "category": "smartphones",
+        "price": 299.99,
+        "discountPercentage": 8.83,
+        "rating": 4.9,
+        "stock": 55,
+        "tags": [
+            "smartphones",
+            "samsung galaxy"
+        ],
+        "brand": "Samsung",
+        "sku": "VZF4Z58Z",
+        "weight": 8,
+        "dimensions": {
+            "width": 23.33,
+            "height": 27.33,
+            "depth": 27.02
+        },
+        "warrantyInformation": "1 month warranty",
+        "shippingInformation": "Ships in 2 weeks",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "Would buy again!",
+                "date": "2024-05-23T08:56:21.625Z",
+                "reviewerName": "Jace Smith",
+                "reviewerEmail": "jace.smith@x.dummyjson.com"
+            },
+            {
+                "rating": 4,
+                "comment": "Would buy again!",
+                "date": "2024-05-23T08:56:21.625Z",
+                "reviewerName": "Ruby Andrews",
+                "reviewerEmail": "ruby.andrews@x.dummyjson.com"
+            },
+            {
+                "rating": 5,
+                "comment": "Great value for money!",
+                "date": "2024-05-23T08:56:21.625Z",
+                "reviewerName": "Aria Roberts",
+                "reviewerEmail": "aria.roberts@x.dummyjson.com"
+            }
+        ],
+        "returnPolicy": "No return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "createdAt": "2024-05-23T08:56:21.625Z",
+            "updatedAt": "2024-05-23T08:56:21.625Z",
+            "barcode": "8841359359362",
+            "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+            "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S7/1.png",
+            "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S7/2.png",
+            "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S7/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S7/thumbnail.png"
+    },
+    {
+        "id": 132,
+        "title": "Samsung Galaxy S8",
+        "description": "The Samsung Galaxy S8 is a premium smartphone with an Infinity Display, offering a stunning visual experience. It boasts advanced camera capabilities and cutting-edge technology.",
+        "category": "smartphones",
+        "price": 499.99,
+        "discountPercentage": 2.69,
+        "rating": 3.69,
+        "stock": 75,
+        "tags": [
+            "smartphones",
+            "samsung galaxy"
+        ],
+        "brand": "Samsung",
+        "sku": "GLXQQKBF",
+        "weight": 6,
+        "dimensions": {
+            "width": 6.88,
+            "height": 8.96,
+            "depth": 18.13
+        },
+        "warrantyInformation": "Lifetime warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "rating": 2,
+                "comment": "Very unhappy with my purchase!",
+                "date": "2024-05-23T08:56:21.625Z",
+                "reviewerName": "Christopher West",
+                "reviewerEmail": "christopher.west@x.dummyjson.com"
+            },
+            {
+                "rating": 5,
+                "comment": "Very happy with my purchase!",
+                "date": "2024-05-23T08:56:21.625Z",
+                "reviewerName": "Hazel Evans",
+                "reviewerEmail": "hazel.evans@x.dummyjson.com"
+            },
+            {
+                "rating": 4,
+                "comment": "Very happy with my purchase!",
+                "date": "2024-05-23T08:56:21.625Z",
+                "reviewerName": "Luna Russell",
+                "reviewerEmail": "luna.russell@x.dummyjson.com"
+            }
+        ],
+        "returnPolicy": "No return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "createdAt": "2024-05-23T08:56:21.625Z",
+            "updatedAt": "2024-05-23T08:56:21.625Z",
+            "barcode": "1337599403784",
+            "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+            "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/1.png",
+            "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/2.png",
+            "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/thumbnail.png"
+    },
+    {
+        "id": 133,
+        "title": "Samsung Galaxy S10",
+        "description": "The Samsung Galaxy S10 is a flagship device featuring a dynamic AMOLED display, versatile camera system, and powerful performance. It represents innovation and excellence in smartphone technology.",
+        "category": "smartphones",
+        "price": 699.99,
+        "discountPercentage": 0.97,
+        "rating": 2.81,
+        "stock": 40,
+        "tags": [
+            "smartphones",
+            "samsung galaxy"
+        ],
+        "brand": "Samsung",
+        "sku": "5GJFL98I",
+        "weight": 3,
+        "dimensions": {
+            "width": 28.23,
+            "height": 7.35,
+            "depth": 10.68
+        },
+        "warrantyInformation": "1 month warranty",
+        "shippingInformation": "Ships overnight",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+            {
+                "rating": 4,
+                "comment": "Great value for money!",
+                "date": "2024-05-23T08:56:21.625Z",
+                "reviewerName": "Grace Perry",
+                "reviewerEmail": "grace.perry@x.dummyjson.com"
+            },
+            {
+                "rating": 4,
+                "comment": "Highly impressed!",
+                "date": "2024-05-23T08:56:21.625Z",
+                "reviewerName": "Elijah Hill",
+                "reviewerEmail": "elijah.hill@x.dummyjson.com"
+            },
+            {
+                "rating": 4,
+                "comment": "Would buy again!",
+                "date": "2024-05-23T08:56:21.625Z",
+                "reviewerName": "Eleanor Tyler",
+                "reviewerEmail": "eleanor.tyler@x.dummyjson.com"
+            }
+        ],
+        "returnPolicy": "No return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+            "createdAt": "2024-05-23T08:56:21.625Z",
+            "updatedAt": "2024-05-23T08:56:21.625Z",
+            "barcode": "0311929399881",
+            "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+        },
+        "images": [
+            "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/1.png",
+            "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/2.png",
+            "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/3.png"
+        ],
+        "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/thumbnail.png"
+    }
+]
